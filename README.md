@@ -1,4 +1,4 @@
-# * Olá, sou *Nicoly Souza*.
+#  Olá, sou *Nicoly Souza*.
 
 ## 🚀 Sobre mim
 - 🌱 **[Aprendizado contínuo](ca://s?q=Aprendizado_contínuo)**: sempre buscando evoluir em programação e novas tecnologias.  
